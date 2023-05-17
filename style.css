@@ -1,6 +1,47 @@
-h1{
-    color:yellow;
+* {
+    margin: 0;
+    padding: 0;
+   
+}
+#cabecalho{
+    color: yellow;
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+   
 }
 body{
-    background-color:aqua;
+   
+background-color: hsla(241, 100%, 46%, 0.418);
+}
+#jardim{
+    width: 100px;
+    height: 100px;
+   
+}
+#fotoescola{
+    width: 25%;
+}
+
+#escola{
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+   
+}
+
+#escola-titulo{
+    padding: 24px 0;
+}
+#conteudo{
+    width: 35%;
+}
+
+#lista-item{
+    display: inline-block;
+    margin: 0 16px;
+    padding: 24px 0;
+    font-size: 24px;
 }
