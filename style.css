@@ -45,3 +45,14 @@ background-color: hsla(241, 100%, 46%, 0.418);
     padding: 24px 0;
     font-size: 24px;
 }
+#alunos{
+    width: 120px;
+    height: 120px;
+   
+}
+#estudante-icone{
+    width: 24px;
+}
+#estudante-div{
+    text-align: center;
+}
